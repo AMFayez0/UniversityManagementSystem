@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\gitHub\\UniversityManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{391D2B21-4565-4BE8-B192-B6CA55D64A28}|UniversityManagementSystem.vcxproj|D:\\gitHub\\UniversityManagementSystem\\CommunityMember.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{391D2B21-4565-4BE8-B192-B6CA55D64A28}|UniversityManagementSystem.vcxproj|solutionrelative:CommunityMember.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{391D2B21-4565-4BE8-B192-B6CA55D64A28}|UniversityManagementSystem.vcxproj|D:\\gitHub\\UniversityManagementSystem\\UniversityManagementSystem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{391D2B21-4565-4BE8-B192-B6CA55D64A28}|UniversityManagementSystem.vcxproj|solutionrelative:UniversityManagementSystem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{391D2B21-4565-4BE8-B192-B6CA55D64A28}|UniversityManagementSystem.vcxproj|D:\\gitHub\\UniversityManagementSystem\\Staff.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{391D2B21-4565-4BE8-B192-B6CA55D64A28}|UniversityManagementSystem.vcxproj|solutionrelative:Staff.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{391D2B21-4565-4BE8-B192-B6CA55D64A28}|UniversityManagementSystem.vcxproj|D:\\gitHub\\UniversityManagementSystem\\Staff.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{391D2B21-4565-4BE8-B192-B6CA55D64A28}|UniversityManagementSystem.vcxproj|solutionrelative:Staff.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{391D2B21-4565-4BE8-B192-B6CA55D64A28}|UniversityManagementSystem.vcxproj|D:\\gitHub\\UniversityManagementSystem\\Faculty.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{391D2B21-4565-4BE8-B192-B6CA55D64A28}|UniversityManagementSystem.vcxproj|solutionrelative:Faculty.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{391D2B21-4565-4BE8-B192-B6CA55D64A28}|UniversityManagementSystem.vcxproj|D:\\gitHub\\UniversityManagementSystem\\Faculty.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{391D2B21-4565-4BE8-B192-B6CA55D64A28}|UniversityManagementSystem.vcxproj|solutionrelative:Faculty.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{391D2B21-4565-4BE8-B192-B6CA55D64A28}|UniversityManagementSystem.vcxproj|D:\\gitHub\\UniversityManagementSystem\\Alumnus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{391D2B21-4565-4BE8-B192-B6CA55D64A28}|UniversityManagementSystem.vcxproj|solutionrelative:Alumnus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{391D2B21-4565-4BE8-B192-B6CA55D64A28}|UniversityManagementSystem.vcxproj|D:\\gitHub\\UniversityManagementSystem\\Alumnus.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{391D2B21-4565-4BE8-B192-B6CA55D64A28}|UniversityManagementSystem.vcxproj|solutionrelative:Alumnus.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{391D2B21-4565-4BE8-B192-B6CA55D64A28}|UniversityManagementSystem.vcxproj|D:\\gitHub\\UniversityManagementSystem\\Student.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{391D2B21-4565-4BE8-B192-B6CA55D64A28}|UniversityManagementSystem.vcxproj|solutionrelative:Student.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{391D2B21-4565-4BE8-B192-B6CA55D64A28}|UniversityManagementSystem.vcxproj|D:\\gitHub\\UniversityManagementSystem\\Student.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{391D2B21-4565-4BE8-B192-B6CA55D64A28}|UniversityManagementSystem.vcxproj|solutionrelative:Student.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{391D2B21-4565-4BE8-B192-B6CA55D64A28}|UniversityManagementSystem.vcxproj|D:\\gitHub\\UniversityManagementSystem\\Employee.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{391D2B21-4565-4BE8-B192-B6CA55D64A28}|UniversityManagementSystem.vcxproj|solutionrelative:Employee.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{391D2B21-4565-4BE8-B192-B6CA55D64A28}|UniversityManagementSystem.vcxproj|D:\\gitHub\\UniversityManagementSystem\\Employee.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{391D2B21-4565-4BE8-B192-B6CA55D64A28}|UniversityManagementSystem.vcxproj|solutionrelative:Employee.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{391D2B21-4565-4BE8-B192-B6CA55D64A28}|UniversityManagementSystem.vcxproj|D:\\gitHub\\UniversityManagementSystem\\CommunityMember.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{391D2B21-4565-4BE8-B192-B6CA55D64A28}|UniversityManagementSystem.vcxproj|solutionrelative:CommunityMember.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Staff.hpp",
+              "DocumentMoniker": "D:\\gitHub\\UniversityManagementSystem\\Staff.hpp",
+              "RelativeDocumentMoniker": "Staff.hpp",
+              "ToolTip": "D:\\gitHub\\UniversityManagementSystem\\Staff.hpp",
+              "RelativeToolTip": "Staff.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-26T13:36:21.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Alumnus.cpp",
+              "DocumentMoniker": "D:\\gitHub\\UniversityManagementSystem\\Alumnus.cpp",
+              "RelativeDocumentMoniker": "Alumnus.cpp",
+              "ToolTip": "D:\\gitHub\\UniversityManagementSystem\\Alumnus.cpp",
+              "RelativeToolTip": "Alumnus.cpp",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-26T13:35:25.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Staff.cpp",
+              "DocumentMoniker": "D:\\gitHub\\UniversityManagementSystem\\Staff.cpp",
+              "RelativeDocumentMoniker": "Staff.cpp",
+              "ToolTip": "D:\\gitHub\\UniversityManagementSystem\\Staff.cpp",
+              "RelativeToolTip": "Staff.cpp",
+              "ViewState": "AgIAACMAAAAAAAAAAAAowD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-26T13:35:50.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CommunityMember.cpp",
+              "DocumentMoniker": "D:\\gitHub\\UniversityManagementSystem\\CommunityMember.cpp",
+              "RelativeDocumentMoniker": "CommunityMember.cpp",
+              "ToolTip": "D:\\gitHub\\UniversityManagementSystem\\CommunityMember.cpp",
+              "RelativeToolTip": "CommunityMember.cpp",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAmwEwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-26T13:30:25.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Alumnus.hpp",
+              "DocumentMoniker": "D:\\gitHub\\UniversityManagementSystem\\Alumnus.hpp",
+              "RelativeDocumentMoniker": "Alumnus.hpp",
+              "ToolTip": "D:\\gitHub\\UniversityManagementSystem\\Alumnus.hpp",
+              "RelativeToolTip": "Alumnus.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-26T13:35:02.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Student.cpp",
+              "DocumentMoniker": "D:\\gitHub\\UniversityManagementSystem\\Student.cpp",
+              "RelativeDocumentMoniker": "Student.cpp",
+              "ToolTip": "D:\\gitHub\\UniversityManagementSystem\\Student.cpp",
+              "RelativeToolTip": "Student.cpp",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAowG8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-26T13:34:51.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Faculty.cpp",
+              "DocumentMoniker": "D:\\gitHub\\UniversityManagementSystem\\Faculty.cpp",
+              "RelativeDocumentMoniker": "Faculty.cpp",
+              "ToolTip": "D:\\gitHub\\UniversityManagementSystem\\Faculty.cpp",
+              "RelativeToolTip": "Faculty.cpp",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAowGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-26T13:35:56.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Faculty.hpp",
+              "DocumentMoniker": "D:\\gitHub\\UniversityManagementSystem\\Faculty.hpp",
+              "RelativeDocumentMoniker": "Faculty.hpp",
+              "ToolTip": "D:\\gitHub\\UniversityManagementSystem\\Faculty.hpp",
+              "RelativeToolTip": "Faculty.hpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-26T13:35:34.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UniversityManagementSystem.cpp",
+              "DocumentMoniker": "D:\\gitHub\\UniversityManagementSystem\\UniversityManagementSystem.cpp",
+              "RelativeDocumentMoniker": "UniversityManagementSystem.cpp",
+              "ToolTip": "D:\\gitHub\\UniversityManagementSystem\\UniversityManagementSystem.cpp",
+              "RelativeToolTip": "UniversityManagementSystem.cpp",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAowHYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-26T13:28:24.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Student.hpp",
+              "DocumentMoniker": "D:\\gitHub\\UniversityManagementSystem\\Student.hpp",
+              "RelativeDocumentMoniker": "Student.hpp",
+              "ToolTip": "D:\\gitHub\\UniversityManagementSystem\\Student.hpp",
+              "RelativeToolTip": "Student.hpp",
+              "ViewState": "AgIAABQAAAAAAAAAAAAowC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-26T13:34:01.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Employee.cpp",
+              "DocumentMoniker": "D:\\gitHub\\UniversityManagementSystem\\Employee.cpp",
+              "RelativeDocumentMoniker": "Employee.cpp",
+              "ToolTip": "D:\\gitHub\\UniversityManagementSystem\\Employee.cpp",
+              "RelativeToolTip": "Employee.cpp",
+              "ViewState": "AgIAADEAAAAAAAAAAAAowEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-26T13:33:48.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Employee.hpp",
+              "DocumentMoniker": "D:\\gitHub\\UniversityManagementSystem\\Employee.hpp",
+              "RelativeDocumentMoniker": "Employee.hpp",
+              "ToolTip": "D:\\gitHub\\UniversityManagementSystem\\Employee.hpp",
+              "RelativeToolTip": "Employee.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-26T13:33:29.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CommunityMember.hpp",
+              "DocumentMoniker": "D:\\gitHub\\UniversityManagementSystem\\CommunityMember.hpp",
+              "RelativeDocumentMoniker": "CommunityMember.hpp",
+              "ToolTip": "D:\\gitHub\\UniversityManagementSystem\\CommunityMember.hpp",
+              "RelativeToolTip": "CommunityMember.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-26T13:33:06.391Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
